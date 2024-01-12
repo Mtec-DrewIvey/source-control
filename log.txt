@@ -10,10 +10,6 @@ Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
 Date:   Thu Jan 11 10:28:11 2024 -0700
 
     resolved merge conflict
-    git status
-    q
-    !
-    clear
 
 commit 5fa4222cc2fa39911cdc07ccc321214fbe390d13
 Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
