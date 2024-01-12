@@ -1,0 +1,40 @@
+commit b0bf2dd1953ca00fb03a1e8558425e19088fedc7
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Fri Jan 12 07:21:18 2024 -0700
+
+    updating html/css in feature/demo branch Fri Jan 12 07:21:18 MST 2024
+
+commit 55537de14b203c32b6331f1d519f8f2afd918aed
+Merge: 5fa4222 0d05b4e
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 10:28:11 2024 -0700
+
+    resolved merge conflict
+    git status
+    q
+    !
+    clear
+
+commit 5fa4222cc2fa39911cdc07ccc321214fbe390d13
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 10:26:32 2024 -0700
+
+    committing small change in style.css to hopefully create merge conflict Thu Jan 11 10:26:32 MST 2024
+
+commit 0d05b4e24bb2ba50cebff0ac7c43dd0d2dc50e88
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 10:25:31 2024 -0700
+
+    Created some content Thu Jan 11 10:25:31 MST 2024
+
+commit 008da8d555354e8a5c9de92c6f42f5aef7905489
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 10:08:31 2024 -0700
+
+    adding valid css file (step 6) Thu Jan 11 10:08:31 MST 2024
+
+commit ee9d06df3bae92de05fafa45e995ce076c174cde
+Author: Drew Ivey <drewivey@Drews-MacBook-Air.local>
+Date:   Thu Jan 11 10:07:18 2024 -0700
+
+    Initial commit, created index.html and .gitignore
