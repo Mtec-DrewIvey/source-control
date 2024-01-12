@@ -7,13 +7,35 @@
 
 body {
     min-height: 100vh;
+    background-color: lightblue;
+}
+
+header {
+    height: 150px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 2rem;
+    background-color: azure;
 }
 
 h1 {
-    margin-bottom: 2rem;
+    border-bottom: 1px dashed grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 500px;
+    justify-content: center;
+    align-content: center;
+}
+
+.container img {
+    padding-left: 125.5px;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    padding-top: 2rem;
 }
